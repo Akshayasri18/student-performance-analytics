@@ -5,7 +5,7 @@
 ## 1. Project Title and Student Details
 
 - **Project:** Student Performance Analytics System
-- **Name:** *<your name>*
+- **Name:** Manda Akshaya Sri
 - **Email:** akshayasrimanda@gmail.com
 - **Course:** Python with AI (EWB Courses)
 
@@ -142,4 +142,4 @@ The system successfully loads the dataset, calculates totals, averages, grades a
 
 ## 10. GitHub Repository
 
-Repository link: *<paste your GitHub repository URL here>*
+Repository link: https://github.com/Akshayasri18/student-performance-analytics
