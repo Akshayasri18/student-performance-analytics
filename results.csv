@@ -1,0 +1,21 @@
+StudentID,Name,Department,Maths,Physics,Chemistry,English,Computer,Attendance,Total,Average,Grade,Result
+S001,Aarav Sharma,CSE,88,76,82,79,91,92,416,83.2,A,Pass
+S002,Priya Reddy,CSE,92,88,85,90,95,96,450,90.0,A+,Pass
+S003,Rohan Verma,ECE,65,58,62,70,68,81,323,64.6,C,Pass
+S004,Sneha Iyer,ECE,78,82,74,85,80,89,399,79.8,B,Pass
+S005,Karthik Rao,MECH,45,38,50,60,42,68,235,47.0,F,Fail
+S006,Ananya Das,CSE,95,91,89,93,98,98,466,93.2,A+,Pass
+S007,Vikram Singh,MECH,58,62,55,64,60,75,299,59.8,D,Pass
+S008,Meera Nair,IT,72,69,75,80,78,88,374,74.8,B,Pass
+S009,Arjun Patel,IT,84,79,81,77,86,90,407,81.4,A,Pass
+S010,Divya Menon,ECE,36,42,39,55,48,62,220,44.0,F,Fail
+S011,Rahul Gupta,CSE,70,74,68,72,76,85,360,72.0,B,Pass
+S012,Kavya Pillai,IT,89,85,90,88,92,94,444,88.8,A,Pass
+S013,Suresh Kumar,MECH,52,47,58,66,55,72,278,55.6,D,Pass
+S014,Neha Joshi,ECE,81,77,83,86,79,91,406,81.2,A,Pass
+S015,Aditya Mishra,CSE,60,64,59,68,71,78,322,64.4,C,Pass
+S016,Pooja Hegde,IT,76,80,72,82,85,87,395,79.0,B,Pass
+S017,Manoj Babu,MECH,41,35,44,58,39,65,217,43.4,F,Fail
+S018,Isha Kapoor,CSE,93,89,94,91,96,97,463,92.6,A+,Pass
+S019,Harsha Vardhan,ECE,68,71,66,74,70,83,349,69.8,C,Pass
+S020,Lakshmi Devi,IT,79,75,80,84,82,89,400,80.0,A,Pass
