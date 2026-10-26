@@ -123,11 +123,11 @@ S013 Suresh Kumar (72), S017 Manoj Babu (65)
 
 ### Screenshots
 
-![Dataset overview and student report](screenshots/1_dataset_and_student_report.png)
+![Dataset overview and student report](1_dataset_and_student_report.png)
 
-![Class performance, pass/fail and grade distribution](screenshots/2_class_passfail_grades.png)
+![Class performance, pass/fail and grade distribution](2_class_passfail_grades.png)
 
-![Subject-wise analysis, top 5 and department analysis](screenshots/3_subjects_top5_departments.png)
+![Subject-wise analysis, top 5 and department analysis](3_subjects_top5_departments.png)
 
 ## 8. Final Outcome
 
